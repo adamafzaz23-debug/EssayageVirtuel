@@ -1,0 +1,6 @@
+{
+  "name": "Essayage Virtuel",
+  "description": "An editorial-grade virtual fitting room and digital tailor experience using AI-driven photogrammetry.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["AI Analysis", "3D Visualization", "Personalized Fitting"]
+}
